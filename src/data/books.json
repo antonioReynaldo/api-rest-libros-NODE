@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bk-8821-x9",
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "publication_year": 1967,
+    "genre": "Realismo mágico",
+    "summary": "La historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo."
+  },
+  {
+    "id": "bk-4410-z2",
+    "title": "1984",
+    "author": "George Orwell",
+    "publication_year": 1949,
+    "genre": "Distopía",
+    "summary": "Una crítica feroz a los regímenes totalitarios y la vigilancia extrema en una sociedad futura."
+  },
+  {
+    "id": "bk-1593-a5",
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "publication_year": 1605,
+    "genre": "Novela de aventuras",
+    "summary": "Un hidalgo que, tras leer demasiados libros de caballería, decide convertirse en caballero andante."
+  },
+  {
+    "id": "bk-3327-r8",
+    "title": "El resplandor",
+    "author": "Stephen King",
+    "publication_year": 1977,
+    "genre": "Terror",
+    "summary": "Un escritor alcohólico acepta un puesto como cuidador de un hotel aislado que esconde secretos siniestros."
+  },
+  {
+    "id": "bk-7742-m1",
+    "title": "Breve historia del tiempo",
+    "author": "Stephen Hawking",
+    "publication_year": 1988,
+    "genre": "Divulgación científica",
+    "summary": "Una explicación accesible sobre los orígenes del universo, los agujeros negros y la naturaleza del tiempo."
+  },
+  {
+    "id": "bk-2209-k4",
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "publication_year": 1981,
+    "genre": "Novela negra",
+    "summary": "El relato de los eventos que llevaron al asesinato de Santiago Nasar a manos de los gemelos Vicario."
+  },
+  {
+    "id": "bk-9911-p3",
+    "title": "Sapiens: De animales a dioses",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2011,
+    "genre": "Ensayo",
+    "summary": "Un recorrido por la historia de la humanidad, desde las primeras especies humanas hasta los avances del siglo XXI."
+  },
+  {
+    "id": "bk-5564-t6",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "publication_year": 1963,
+    "genre": "Contranovela",
+    "summary": "Una obra experimental que puede leerse en diferentes órdenes, narrando la vida de Horacio Oliveira."
+  },
+  {
+    "id": "bk-6678-j2",
+    "title": "El nombre de la rosa",
+    "author": "Umberto Eco",
+    "publication_year": 1980,
+    "genre": "Misterio histórico",
+    "summary": "Un fraile franciscano investiga una serie de muertes misteriosas en una abadía benedictina en el siglo XIV."
+  },
+  {
+    "id": "bk-1102-w9",
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "publication_year": 1944,
+    "genre": "Relato corto",
+    "summary": "Una colección de laberintos lógicos y metafísicos que desafían la percepción de la realidad."
+  }
+]

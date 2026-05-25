@@ -1,0 +1,23 @@
+### Obtener todos los libros
+GET http://localhost:3000/books
+Content-Type: application/json
+
+### Obtener un libro especifico
+GET http://localhost:3000/books/bk-3327-r8
+Content-Type: application/json
+
+### Agregar un libro
+POST http://localhost:3000/books
+Content-Type: application/json
+
+{
+    "title": "Yo Robot",
+    "author": "Isaac Asimov",
+    "publication_year": 1950,
+    "genre": ["Ciencia Ficción", "Novela"],
+    "summary": "Es una antología de relatos interconectados que explora la interacción ético-filosófica entre humanos y robots, basándose en las Tres Leyes de la Robótica."
+}
+
+### Eliminar libro
+DELETE http://localhost:3000/books/bk-4410-z2
+Content-Type: application/json
